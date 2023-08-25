@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Super Flash</string>
+    <string name="bulb_image">Bulb Image</string>
+    <string name="front_flash">Front Flash</string>
+    <string name="back_flash">Back Flash</string>
+    <string name="testing">testing</string>
+</resources>
