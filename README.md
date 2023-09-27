@@ -9,14 +9,12 @@ Welcome to Super Flash. It's a simple flash light Android app. Some technologies
 
 # Preview:
 
-Flash Off
-<p align="center">
-  <img src="https://github.com/meemanali/Super-Flash/blob/master/Super%20Flash%201.png" alt="Flash light off" width="310" title="Flash light off">
-</p>
+Pics 1:- Flash light off <br>
+Pics 2:- Flash light on <br>
 
-Flash On
-<p align="center">
+<div>
+    <img src="https://github.com/meemanali/Super-Flash/blob/master/Super%20Flash%201.png" alt="Flash light off" width="310" title="Flash light off">
   <img src="https://github.com/meemanali/Super-Flash/blob/master/Super%20Flash%202.png" alt="Flash light on" width="310" title="Flash light on">
-</p>
+</div>
 
 https://github.com/meemanali/Super-Flash/assets/120294764/0866a8e2-2475-4525-82b4-984e07cb6663
