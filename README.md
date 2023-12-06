@@ -1,6 +1,6 @@
 # "Super Flash"
 
-Welcome to Super Flash. It's a simple flash light Android app. Some technologies used in this project are:
+Welcome to Multi Flash. It's a simple flash light Android app. Some technologies used in this project are:
 
 * Able to manage both front and back flash simultaneously.
 * Tested on Android Nexus 5 Api 26 and Android Pixel Pro Api 33.
