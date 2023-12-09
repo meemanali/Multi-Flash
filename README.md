@@ -4,7 +4,7 @@ Welcome to Multi Flash. It's a simple flash light Android app. Some technologies
 
 * Able to manage both front and back flash simultaneously.
 * Tested on Android Nexus 5 Api 26 and Android Pixel Pro Api 33.
-* Beautiful UI.
+* Beautiful and enhanced UI.
 * Able to handle errors.
 
 # Preview:
