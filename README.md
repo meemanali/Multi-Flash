@@ -9,11 +9,11 @@ Welcome to Multi Flash. It's a simple flash light Android app. Some technologies
 
 # Preview:
 
-Pics 1:- Flash light off <br>
-Pics 2:- Flash light on <br>
+Pics 1:- Flash light mode off (for front camera). <br>
+Pics 2:- Flash light mode on (for back camera). <br>
 
 <div>
-    <img src="https://github.com/meemanali/Super-Flash/blob/master/Super%20Flash%201.png" alt="Flash light off" width="250" title="Flash light off">
+  <img src="https://github.com/meemanali/Super-Flash/blob/master/Super%20Flash%201.png" alt="Flash light off" width="250" title="Flash light off">
   <img src="https://github.com/meemanali/Super-Flash/blob/master/Super%20Flash%202.png" alt="Flash light on" width="250" title="Flash light on">
 </div>
 
